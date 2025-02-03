@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "naam": "Socrates",
+        "beschrijving": "Een klassieke Griekse filosoof die wordt beschouwd als een van de grondleggers van de westerse filosofie.",
+        "leeftijd": 71,
+        "actief": false,
+        "geboortedatum": "0470-01-01",
+        "profielfoto": "https://example.com/socrates.jpg",
+        "school": "Klassieke Oudheid",
+        "hobby's": ["Discussies", "Ethiek", "Vragen stellen"],
+        "beroemd_werk": {
+            "id": 101,
+            "titel": "De Apologie van Socrates",
+            "jaar": -399,
+            "beschrijving": "Een verslag van Socrates' verdediging tijdens zijn proces.",
+            "image_url": "https://example.com/apologie.jpg"
+        }
+    },
+    {
+        "id": 2,
+        "naam": "Plato",
+        "beschrijving": "Leerling van Socrates en leraar van Aristoteles, bekend om zijn dialogen en de oprichting van de Academie.",
+        "leeftijd": 80,
+        "actief": false,
+        "geboortedatum": "0427-01-01",
+        "profielfoto": "https://example.com/plato.jpg",
+        "school": "Klassieke Oudheid",
+        "hobby's": ["Schrijven", "Onderwijzen", "Politieke theorie"],
+        "beroemd_werk": {
+            "id": 102,
+            "titel": "De Staat",
+            "jaar": -380,
+            "beschrijving": "Een filosofisch werk over rechtvaardigheid en de ideale staat.",
+            "image_url": "https://example.com/destaat.jpg"
+        }
+    },
+    {
+        "id": 3,
+        "naam": "Aristoteles",
+        "beschrijving": "Een Griekse filosoof en wetenschapper, leerling van Plato en leraar van Alexander de Grote.",
+        "leeftijd": 62,
+        "actief": false,
+        "geboortedatum": "0384-01-01",
+        "profielfoto": "https://example.com/aristoteles.jpg",
+        "school": "Klassieke Oudheid",
+        "hobby's": ["Biologie", "Logica", "Metafysica"],
+        "beroemd_werk": {
+            "id": 103,
+            "titel": "Ethica Nicomachea",
+            "jaar": -350,
+            "beschrijving": "Een werk over ethiek en deugd.",
+            "image_url": "https://example.com/ethica.jpg"
+        }
+    },
+    {
+        "id": 4,
+        "naam": "Immanuel Kant",
+        "beschrijving": "Een Duitse filosoof die wordt beschouwd als een centrale figuur in de moderne filosofie.",
+        "leeftijd": 79,
+        "actief": false,
+        "geboortedatum": "1724-04-22",
+        "profielfoto": "https://example.com/kant.jpg",
+        "school": "Verlichting",
+        "hobby's": ["Ethiek", "Kennisleer", "Metafysica"],
+        "beroemd_werk": {
+            "id": 104,
+            "titel": "Kritiek van de zuivere rede",
+            "jaar": 1781,
+            "beschrijving": "Een fundamenteel werk in de moderne filosofie.",
+            "image_url": "https://example.com/kritiek.jpg"
+        }
+    },
+    {
+        "id": 5,
+        "naam": "Friedrich Nietzsche",
+        "beschrijving": "Een Duitse filosoof, dichter en filoloog, bekend om zijn kritiek op traditionele moraal en religie.",
+        "leeftijd": 55,
+        "actief": false,
+        "geboortedatum": "1844-10-15",
+        "profielfoto": "https://example.com/nietzsche.jpg",
+        "school": "Moderne filosofie",
+        "hobby's": ["Schrijven", "Muziek", "Cultuurkritiek"],
+        "beroemd_werk": {
+            "id": 105,
+            "titel": "Aldus sprak Zarathoestra",
+            "jaar": 1883,
+            "beschrijving": "Een filosofische roman over de Übermensch.",
+            "image_url": "https://example.com/zarathoestra.jpg"
+        }
+    },
+    {
+        "id": 6,
+        "naam": "René Descartes",
+        "beschrijving": "Een Franse filosoof, wiskundige en wetenschapper, bekend om zijn uitspraak 'Cogito, ergo sum'.",
+        "leeftijd": 53,
+        "actief": false,
+        "geboortedatum": "1596-03-31",
+        "profielfoto": "https://example.com/descartes.jpg",
+        "school": "Rationalisme",
+        "hobby's": ["Wiskunde", "Metafysica", "Wetenschap"],
+        "beroemd_werk": {
+            "id": 106,
+            "titel": "Meditaties over de eerste filosofie",
+            "jaar": 1641,
+            "beschrijving": "Een werk over de fundamenten van kennis en het bestaan.",
+            "image_url": "https://example.com/meditaties.jpg"
+        }
+    },
+    {
+        "id": 7,
+        "naam": "John Locke",
+        "beschrijving": "Een Engelse filosoof en arts, bekend als een van de belangrijkste empiristen.",
+        "leeftijd": 72,
+        "actief": false,
+        "geboortedatum": "1632-08-29",
+        "profielfoto": "https://example.com/locke.jpg",
+        "school": "Empirisme",
+        "hobby's": ["Politieke theorie", "Kennisleer", "Geneeskunde"],
+        "beroemd_werk": {
+            "id": 107,
+            "titel": "Twee verhandelingen over de regering",
+            "jaar": 1689,
+            "beschrijving": "Een werk over politieke filosofie en natuurlijke rechten.",
+            "image_url": "https://example.com/verhandelingen.jpg"
+        }
+    },
+    {
+        "id": 8,
+        "naam": "David Hume",
+        "beschrijving": "Een Schotse filosoof, historicus en econoom, bekend om zijn empirisme en scepticisme.",
+        "leeftijd": 65,
+        "actief": false,
+        "geboortedatum": "1711-05-07",
+        "profielfoto": "https://example.com/hume.jpg",
+        "school": "Empirisme",
+        "hobby's": ["Geschiedenis", "Economie", "Ethiek"],
+        "beroemd_werk": {
+            "id": 108,
+            "titel": "Een onderzoek naar het menselijk begrip",
+            "jaar": 1748,
+            "beschrijving": "Een werk over de grenzen van menselijke kennis.",
+            "image_url": "https://example.com/onderzoek.jpg"
+        }
+    },
+    {
+        "id": 9,
+        "naam": "Jean-Jacques Rousseau",
+        "beschrijving": "Een Franstalige filosoof, schrijver en componist, bekend om zijn ideeën over de sociale contracttheorie.",
+        "leeftijd": 66,
+        "actief": false,
+        "geboortedatum": "1712-06-28",
+        "profielfoto": "https://example.com/rousseau.jpg",
+        "school": "Verlichting",
+        "hobby's": ["Muziek", "Schrijven", "Politieke theorie"],
+        "beroemd_werk": {
+            "id": 109,
+            "titel": "Het maatschappelijk verdrag",
+            "jaar": 1762,
+            "beschrijving": "Een werk over politieke filosofie en de legitimiteit van gezag.",
+            "image_url": "https://example.com/verdrag.jpg"
+        }
+    },
+    {
+        "id": 10,
+        "naam": "Karl Marx",
+        "beschrijving": "Een Duitse filosoof, econoom en revolutionair, bekend om zijn kritiek op het kapitalisme.",
+        "leeftijd": 64,
+        "actief": false,
+        "geboortedatum": "1818-05-05",
+        "profielfoto": "https://example.com/marx.jpg",
+        "school": "Socialisme",
+        "hobby's": ["Economie", "Politieke theorie", "Revolutionaire activiteiten"],
+        "beroemd_werk": {
+            "id": 110,
+            "titel": "Het Kapitaal",
+            "jaar": 1867,
+            "beschrijving": "Een kritische analyse van het kapitalisme.",
+            "image_url": "https://example.com/kapitaal.jpg"
+        }
+    }
+]
