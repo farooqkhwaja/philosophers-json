@@ -6,7 +6,7 @@
         "leeftijd": 71,
         "actief": false,
         "geboortedatum": "0470-01-01",
-        "profielfoto": "https://chatgpt.com/c/67a0ceba-3c04-8001-b2e1-d5bfb7830e17",
+        "profielfoto": "https://github.com/farooqkhwaja/philosophers-json/blob/main/photos%20labo1/Socrates.png?raw=true",
         "school": "Klassieke Oudheid",
         "hobby's": ["Discussies", "Ethiek", "Vragen stellen"],
         "beroemd_werk": {
@@ -24,7 +24,7 @@
         "leeftijd": 80,
         "actief": false,
         "geboortedatum": "0427-01-01",
-        "profielfoto": "https://chatgpt.com/c/67a0ceba-3c04-8001-b2e1-d5bfb7830e17",
+        "profielfoto": "https://github.com/farooqkhwaja/philosophers-json/blob/main/photos%20labo1/Socrates.png?raw=true",
         "school": "Klassieke Oudheid",
         "hobby's": ["Schrijven", "Onderwijzen", "Politieke theorie"],
         "beroemd_werk": {
@@ -42,7 +42,7 @@
         "leeftijd": 62,
         "actief": false,
         "geboortedatum": "0384-01-01",
-        "profielfoto": "https://chatgpt.com/c/67a0ceba-3c04-8001-b2e1-d5bfb7830e17",
+        "profielfoto": "https://github.com/farooqkhwaja/philosophers-json/blob/main/photos%20labo1/Socrates.png?raw=true",
         "school": "Klassieke Oudheid",
         "hobby's": ["Biologie", "Logica", "Metafysica"],
         "beroemd_werk": {
@@ -60,7 +60,7 @@
         "leeftijd": 79,
         "actief": false,
         "geboortedatum": "1724-04-22",
-        "profielfoto": "https://www.google.com/url?sa=i&url=https%3A%2F%2Flicentiapoetica.com%2Fintroduction-to-immanuel-kant-199c8281ac2b&psig=AOvVaw13i3zNjentv4btvtXkTcJt&ust=1738679849016000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIDJtqjdp4sDFQAAAAAdAAAAABAE",
+        "profielfoto": "https://github.com/farooqkhwaja/philosophers-json/blob/main/photos%20labo1/Immanuel%20Kant.jpeg?raw=true",
         "school": "Verlichting",
         "hobby's": ["Ethiek", "Kennisleer", "Metafysica"],
         "beroemd_werk": {
@@ -78,7 +78,7 @@
         "leeftijd": 55,
         "actief": false,
         "geboortedatum": "1844-10-15",
-        "profielfoto": "https://example.com/nietzsche.jpg",
+        "profielfoto": "https://github.com/farooqkhwaja/philosophers-json/blob/main/photos%20labo1/Freidrich%20Nietzsche.jpg?raw=true",
         "school": "Moderne filosofie",
         "hobby's": ["Schrijven", "Muziek", "Cultuurkritiek"],
         "beroemd_werk": {
@@ -96,7 +96,7 @@
         "leeftijd": 53,
         "actief": false,
         "geboortedatum": "1596-03-31",
-        "profielfoto": "https://example.com/descartes.jpg",
+        "profielfoto": "https://github.com/farooqkhwaja/philosophers-json/blob/main/photos%20labo1/Rene%20Descartes.jpg?raw=true",
         "school": "Rationalisme",
         "hobby's": ["Wiskunde", "Metafysica", "Wetenschap"],
         "beroemd_werk": {
@@ -114,7 +114,7 @@
         "leeftijd": 72,
         "actief": false,
         "geboortedatum": "1632-08-29",
-        "profielfoto": "https://example.com/locke.jpg",
+        "profielfoto": "https://github.com/farooqkhwaja/philosophers-json/blob/main/photos%20labo1/John%20Locke.jpeg?raw=true",
         "school": "Empirisme",
         "hobby's": ["Politieke theorie", "Kennisleer", "Geneeskunde"],
         "beroemd_werk": {
@@ -132,7 +132,7 @@
         "leeftijd": 65,
         "actief": false,
         "geboortedatum": "1711-05-07",
-        "profielfoto": "https://example.com/hume.jpg",
+        "profielfoto": "https://github.com/farooqkhwaja/philosophers-json/blob/main/photos%20labo1/David%20hume.jpeg?raw=true",
         "school": "Empirisme",
         "hobby's": ["Geschiedenis", "Economie", "Ethiek"],
         "beroemd_werk": {
@@ -150,7 +150,7 @@
         "leeftijd": 66,
         "actief": false,
         "geboortedatum": "1712-06-28",
-        "profielfoto": "https://example.com/rousseau.jpg",
+        "profielfoto": "https://github.com/farooqkhwaja/philosophers-json/blob/main/photos%20labo1/Jean-Jacques%20Rousseau.jpeg?raw=true",
         "school": "Verlichting",
         "hobby's": ["Muziek", "Schrijven", "Politieke theorie"],
         "beroemd_werk": {
@@ -168,7 +168,7 @@
         "leeftijd": 64,
         "actief": false,
         "geboortedatum": "1818-05-05",
-        "profielfoto": "https://example.com/marx.jpg",
+        "profielfoto": "https://github.com/farooqkhwaja/philosophers-json/blob/main/photos%20labo1/Karl%20Marx.jpeg?raw=true",
         "school": "Socialisme",
         "hobby's": ["Economie", "Politieke theorie", "Revolutionaire activiteiten"],
         "beroemd_werk": {
