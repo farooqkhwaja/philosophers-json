@@ -6,7 +6,7 @@
         "leeftijd": 71,
         "actief": false,
         "geboortedatum": "0470-01-01",
-        "profielfoto": "https://example.com/socrates.jpg",
+        "profielfoto": "https://chatgpt.com/c/67a0ceba-3c04-8001-b2e1-d5bfb7830e17",
         "school": "Klassieke Oudheid",
         "hobby's": ["Discussies", "Ethiek", "Vragen stellen"],
         "beroemd_werk": {
@@ -24,7 +24,7 @@
         "leeftijd": 80,
         "actief": false,
         "geboortedatum": "0427-01-01",
-        "profielfoto": "https://example.com/plato.jpg",
+        "profielfoto": "https://chatgpt.com/c/67a0ceba-3c04-8001-b2e1-d5bfb7830e17",
         "school": "Klassieke Oudheid",
         "hobby's": ["Schrijven", "Onderwijzen", "Politieke theorie"],
         "beroemd_werk": {
@@ -42,7 +42,7 @@
         "leeftijd": 62,
         "actief": false,
         "geboortedatum": "0384-01-01",
-        "profielfoto": "https://example.com/aristoteles.jpg",
+        "profielfoto": "https://chatgpt.com/c/67a0ceba-3c04-8001-b2e1-d5bfb7830e17",
         "school": "Klassieke Oudheid",
         "hobby's": ["Biologie", "Logica", "Metafysica"],
         "beroemd_werk": {
@@ -60,7 +60,7 @@
         "leeftijd": 79,
         "actief": false,
         "geboortedatum": "1724-04-22",
-        "profielfoto": "https://example.com/kant.jpg",
+        "profielfoto": "https://www.google.com/url?sa=i&url=https%3A%2F%2Flicentiapoetica.com%2Fintroduction-to-immanuel-kant-199c8281ac2b&psig=AOvVaw13i3zNjentv4btvtXkTcJt&ust=1738679849016000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIDJtqjdp4sDFQAAAAAdAAAAABAE",
         "school": "Verlichting",
         "hobby's": ["Ethiek", "Kennisleer", "Metafysica"],
         "beroemd_werk": {
