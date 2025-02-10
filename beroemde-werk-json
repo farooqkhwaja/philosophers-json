@@ -1,0 +1,72 @@
+[
+    {
+        "id": 101,
+        "titel": "De Apologie van Socrates",
+        "jaar": -399,
+        "beschrijving": "Een verslag van Socrates' verdediging tijdens zijn proces.",
+        "image_url": "https://example.com/apologie.jpg"
+    },
+    {
+        "id": 102,
+        "titel": "De Staat",
+        "jaar": -380,
+        "beschrijving": "Een filosofisch werk over rechtvaardigheid en de ideale staat.",
+        "image_url": "https://example.com/destaat.jpg"
+    },
+    {
+        "id": 103,
+        "titel": "Ethica Nicomachea",
+        "jaar": -350,
+        "beschrijving": "Een werk over ethiek en deugd.",
+        "image_url": "https://example.com/ethica.jpg"
+    },
+    {
+        "id": 104,
+        "titel": "Kritiek van de zuivere rede",
+        "jaar": 1781,
+        "beschrijving": "Een fundamenteel werk in de moderne filosofie.",
+        "image_url": "https://example.com/kritiek.jpg"
+    },
+    {
+        "id": 105,
+        "titel": "Aldus sprak Zarathoestra",
+        "jaar": 1883,
+        "beschrijving": "Een filosofische roman over de Übermensch.",
+        "image_url": "https://example.com/zarathoestra.jpg"
+    },
+    {
+        "id": 106,
+        "titel": "Meditaties over de eerste filosofie",
+        "jaar": 1641,
+        "beschrijving": "Een werk over de fundamenten van kennis en het bestaan.",
+        "image_url": "https://example.com/meditaties.jpg"
+    },
+    {
+        "id": 107,
+        "titel": "Twee verhandelingen over de regering",
+        "jaar": 1689,
+        "beschrijving": "Een werk over politieke filosofie en natuurlijke rechten.",
+        "image_url": "https://example.com/verhandelingen.jpg"
+    },
+    {
+        "id": 108,
+        "titel": "Een onderzoek naar het menselijk begrip",
+        "jaar": 1748,
+        "beschrijving": "Een werk over de grenzen van menselijke kennis.",
+        "image_url": "https://example.com/onderzoek.jpg"
+    },
+    {
+        "id": 109,
+        "titel": "Het maatschappelijk verdrag",
+        "jaar": 1762,
+        "beschrijving": "Een werk over politieke filosofie en de legitimiteit van gezag.",
+        "image_url": "https://example.com/verdrag.jpg"
+    },
+    {
+        "id": 110,
+        "titel": "Het Kapitaal",
+        "jaar": 1867,
+        "beschrijving": "Een kritische analyse van het kapitalisme.",
+        "image_url": "https://example.com/kapitaal.jpg"
+    }
+]
